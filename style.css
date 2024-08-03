@@ -1,0 +1,98 @@
+.contents{
+    background-color: #1d2951;
+    background:linear-gradient();
+    
+    color: white;
+    top: 50%;
+    left:50%;
+    width:350px;
+    height:550px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    margin-top: 50px;
+    
+}
+
+.button{
+    color: white;
+}
+
+button:hover{
+    color: red;
+}
+
+.texts{
+    height: auto;
+    width: auto;
+    
+}
+
+.link{
+    color: white;
+}
+
+.fa-square-facebook{
+    font-size: 30px;
+    color: rgb(85, 85, 229);
+    border: hidden;
+    border-color: azure;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 1px;  
+}
+
+.fa-square-instagram{
+    font-size: 30px;
+    color: rgb(251, 36, 161);
+    border: hidden;
+    border-color: azure;
+    margin-left: 60px;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 1px;  
+}
+
+.fa-linkedin{
+    font-size: 30px;
+    color: rgb(126, 109, 200);
+    border: hidden;
+    border-color: azure;
+    margin-left: 60px;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 1px;  
+} 
+
+.fa-square-github{
+    font-size: 30px;
+    color: rgb(16, 163, 58);
+    border: hidden;
+    border-color: azure;
+    margin-left: 60px;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 1px; 
+    
+}
+
+.icons{
+    text-align: center;
+    justify-content: center; 
+
+   
+}
+
+body{
+    
+    width: 100%;  
+   
+}
+::placeholder{
+    color:rgb(76, 112, 112);
+}
+
+
+
+
+
